@@ -1,0 +1,2 @@
+-> Place the slow component as children so that the app will be optimized in terms of speed.
+-> Memoization - The technique of storing once executed function for future so that the function don't need to re-execute again if called next time.
